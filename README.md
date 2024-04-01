@@ -779,9 +779,9 @@ julien@ubuntu:~/monty/bf$ bf 1002-mul.bf
 
 **Repo:**
 
--   GitHub repository: monty
--	Directory: bf
--	File: 1002-mul.bf
+-   GitHub repository: `monty`
+-	Directory: `bf`
+-	File: `1002-mul.bf`
 -------------------------------------------------------
 
 -------------------------------------------------------
