@@ -49,10 +49,6 @@ Requirements
 -	All your header files should be include guarded
 -	You are expected to do the tasks in the order shown in the project
 
-### GitHub
-
-*There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.*
-
 
 More Info
 ---------
@@ -109,16 +105,13 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
 -	Any error message must be printed on `stderr`
 	-	[Here is a link to a GitHub repository](https://intranet.alxswe.com/rltoken/NUGvCZqs609VjEHeutkICw "Here is a link to a GitHub repository") that could help you making sure your errors are printed on `stderr`
 
-### Tests
-
-We strongly encourage you to work all together on a set of tests
 
 The Monty language
 ------------------
 
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 
-*Monty byte code files*
+### *Monty byte code files*
 
 Files containing Monty byte codes usually have the `.m` extension. Most of the industry uses this standard but it is not required by the specification of the language. There is not more than one instruction per line. There can be any number of spaces before or after the opcode and its argument:
 
